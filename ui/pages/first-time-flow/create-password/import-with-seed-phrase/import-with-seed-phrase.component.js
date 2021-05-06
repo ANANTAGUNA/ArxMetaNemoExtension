@@ -42,11 +42,11 @@ export default class ImportWithSeedPhrase extends PureComponent {
       this.context.metricsEvent({
         eventOpts: {
           category: 'Onboarding',
-          action: 'Import Seed Phrase',
+          action: 'Import Secret Recovery Phrase',
           name: 'Close window on import screen',
         },
         customVariables: {
-          errorLabel: 'Seed Phrase Error',
+          errorLabel: 'Secret Recovery Phrase Error',
           errorMessage: this.state.seedPhraseError,
         },
       });
@@ -135,7 +135,7 @@ export default class ImportWithSeedPhrase extends PureComponent {
       this.context.metricsEvent({
         eventOpts: {
           category: 'Onboarding',
-          action: 'Import Seed Phrase',
+          action: 'Import Secret Recovery Phrase',
           name: 'Import Complete',
         },
       });
@@ -185,7 +185,7 @@ export default class ImportWithSeedPhrase extends PureComponent {
     this.context.metricsEvent({
       eventOpts: {
         category: 'Onboarding',
-        action: 'Import Seed Phrase',
+        action: 'Import Secret Recovery Phrase',
         name: 'Check ToS',
       },
     });
@@ -219,11 +219,11 @@ export default class ImportWithSeedPhrase extends PureComponent {
               this.context.metricsEvent({
                 eventOpts: {
                   category: 'Onboarding',
-                  action: 'Import Seed Phrase',
+                  action: 'Import Secret Recovery Phrase',
                   name: 'Go Back from Onboarding Import',
                 },
                 customVariables: {
-                  errorLabel: 'Seed Phrase Error',
+                  errorLabel: 'Secret Recovery Phrase Error',
                   errorMessage: seedPhraseError,
                 },
               });

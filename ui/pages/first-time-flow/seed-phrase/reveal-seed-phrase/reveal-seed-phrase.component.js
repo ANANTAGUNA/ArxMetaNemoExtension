@@ -43,7 +43,7 @@ export default class RevealSeedPhrase extends PureComponent {
     this.context.metricsEvent({
       eventOpts: {
         category: 'Onboarding',
-        action: 'Seed Phrase Setup',
+        action: 'Secret Recovery Phrase Setup',
         name: 'Advance to Verify',
       },
     });
@@ -66,7 +66,7 @@ export default class RevealSeedPhrase extends PureComponent {
     this.context.metricsEvent({
       eventOpts: {
         category: 'Onboarding',
-        action: 'Seed Phrase Setup',
+        action: 'Secret Recovery Phrase Setup',
         name: 'Remind me later',
       },
     });
@@ -103,7 +103,7 @@ export default class RevealSeedPhrase extends PureComponent {
               this.context.metricsEvent({
                 eventOpts: {
                   category: 'Onboarding',
-                  action: 'Seed Phrase Setup',
+                  action: 'Secret Recovery Phrase Setup',
                   name: 'Revealed Words',
                 },
               });

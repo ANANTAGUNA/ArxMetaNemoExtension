@@ -161,10 +161,10 @@
     "message": "แก้ไขผู้ติดต่อ"
   },
   "endOfFlowMessage1": {
-    "message": "คุณผ่านการทดสอบแล้ว กรุณารับผิดชอบในการรักษา Seed Phrase ให้ปลอดภัย"
+    "message": "คุณผ่านการทดสอบแล้ว กรุณารับผิดชอบในการรักษา Secret Recovery Phrase ให้ปลอดภัย"
   },
   "endOfFlowMessage5": {
-    "message": "โปรดระวังฟิชชิ่ง MetaMask จะไม่ขอ Seed Phrase ของคุณโดยไม่มีการแจ้งล่วงหน้าเลย"
+    "message": "โปรดระวังฟิชชิ่ง MetaMask จะไม่ขอ Secret Recovery Phrase ของคุณโดยไม่มีการแจ้งล่วงหน้าเลย"
   },
   "endOfFlowMessage9": {
     "message": "เรียนรู้เพิ่มเติม"
@@ -487,7 +487,7 @@
     "message": "ตัวแจกจ่ายเพื่อการทดสอบ"
   },
   "thisWillCreate": {
-    "message": "สิ่งนี้จะสร้าง Wallet และ Seed Phrase ใหม่"
+    "message": "สิ่งนี้จะสร้าง Wallet และ Secret Recovery Phrase ใหม่"
   },
   "to": {
     "message": "ถึง"

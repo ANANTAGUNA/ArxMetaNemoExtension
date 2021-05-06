@@ -803,7 +803,7 @@
     "message": "Palauta"
   },
   "restoreAccountWithSeed": {
-    "message": "Palauta tilisi käyttäen salaustekstiä (seed phrase)"
+    "message": "Palauta tilisi käyttäen salaustekstiä (Secret Recovery Phrase)"
   },
   "revealSeedWords": {
     "message": "Paljasta salaussanat"

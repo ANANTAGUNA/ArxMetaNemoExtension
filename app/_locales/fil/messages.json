@@ -318,10 +318,10 @@
     "message": "Huwag ibahagi ang parirala sa kahit sino."
   },
   "endOfFlowMessage5": {
-    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng MetaMask ang iyong seed phrase."
+    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng MetaMask ang iyong Secret Recovery Phrase."
   },
   "endOfFlowMessage6": {
-    "message": "Kung kailangan mong i-back up ulit ang iyong seed phrase, makikita mo ito sa Mga Setting -> Seguridad."
+    "message": "Kung kailangan mong i-back up ulit ang iyong Secret Recovery Phrase, makikita mo ito sa Mga Setting -> Seguridad."
   },
   "endOfFlowMessage8": {
     "message": "Hindi ma-recover ng MetaMask ang iyong seedphrase. Alamin pa."
@@ -445,7 +445,7 @@
     "message": " Ang mga na-import na account ay hindi iuugnay sa orihinal na seedphrase na ginawa ng iyong MetaMask account. Matuto pa tungkol sa mga na-import na account "
   },
   "importAccountSeedPhrase": {
-    "message": "Mag-import ng Account gamit ang Seed Phrase"
+    "message": "Mag-import ng Account gamit ang Secret Recovery Phrase"
   },
   "importWallet": {
     "message": "Mag-import ng Wallet"
@@ -482,7 +482,7 @@
     "message": "Hindi valid ang RPC URL"
   },
   "invalidSeedPhrase": {
-    "message": "Hindi valid ang seed phrase"
+    "message": "Hindi valid ang Secret Recovery Phrase"
   },
   "knownAddressRecipient": {
     "message": "Kilalang address ng contract."
@@ -591,7 +591,7 @@
     "message": "Walang address na na-set para sa pangalang ito."
   },
   "noAlreadyHaveSeed": {
-    "message": "Hindi, may seed phrase na ako"
+    "message": "Hindi, may Secret Recovery Phrase na ako"
   },
   "noConversionRateAvailable": {
     "message": "Walang Presyo ng Palitan na Available"
@@ -709,7 +709,7 @@
     "message": "Alisin ang account"
   },
   "removeAccountDescription": {
-    "message": "Tatanggalin ang account na ito sa iyong wallet. Pakitiyak na nasa iyo ang orihinal na seed phrase o private key para sa naka-import na account na ito bago magpatuloy. Maaari kang mag-import o gumawa ulit ng mga account mual sa drop-down ng account. "
+    "message": "Tatanggalin ang account na ito sa iyong wallet. Pakitiyak na nasa iyo ang orihinal na Secret Recovery Phrase o private key para sa naka-import na account na ito bago magpatuloy. Maaari kang mag-import o gumawa ulit ng mga account mual sa drop-down ng account. "
   },
   "requestsAwaitingAcknowledgement": {
     "message": "naghihintay na matugunan ang mga request"
@@ -730,13 +730,13 @@
     "message": "Ipanumbalik"
   },
   "restoreAccountWithSeed": {
-    "message": "I-restore ang iyong Account gamit ang Seed Phrase"
+    "message": "I-restore ang iyong Account gamit ang Secret Recovery Phrase"
   },
   "revealSeedWords": {
     "message": "Ipakita ang Seed Words"
   },
   "revealSeedWordsDescription": {
-    "message": "Kung lilipat ka ng browser o magpapalit ka ng computer, kakailanganin mo ang seed phrase na ito para ma-access ang iyong mga account. I-save ang mga iyon sa isang lugar na ligtas at lihim."
+    "message": "Kung lilipat ka ng browser o magpapalit ka ng computer, kakailanganin mo ang Secret Recovery Phrase na ito para ma-access ang iyong mga account. I-save ang mga iyon sa isang lugar na ligtas at lihim."
   },
   "revealSeedWordsWarning": {
     "message": "Maaaring gamitin ang mga salitang ito para nakawin ang lahat ng iyong account."
@@ -778,13 +778,13 @@
     "message": "Seguridad at Privacy"
   },
   "securitySettingsDescription": {
-    "message": "Mga setting ng privacy at seed phrase ng wallet"
+    "message": "Mga setting ng privacy at Secret Recovery Phrase ng wallet"
   },
   "seedPhrasePlaceholder": {
     "message": "Paghiwa-hiwalayin ang bawat salita gamit ang isang space"
   },
   "seedPhraseReq": {
-    "message": "Ang mga seed phrase ay may habang 12 salita"
+    "message": "Ang mga Secret Recovery Phrase ay may habang 12 salita"
   },
   "selectAHigherGasFee": {
     "message": "Pumili ng mas mataas na gas fee para pabilisin ang pagproseso ng iyong transaksyon.*"
@@ -922,7 +922,7 @@
     "message": "Mga Tuntunin ng Paggamit"
   },
   "thisWillCreate": {
-    "message": "Gagawa ito ng bagong wallet at seed phrase"
+    "message": "Gagawa ito ng bagong wallet at Secret Recovery Phrase"
   },
   "tips": {
     "message": "Mga Tip"
@@ -1070,7 +1070,7 @@
     "message": "Sina-sign mo ang"
   },
   "yourPrivateSeedPhrase": {
-    "message": "Ang iyong pribadong seed phrase"
+    "message": "Ang iyong pribadong Secret Recovery Phrase"
   },
   "zeroGasPriceOnSpeedUpError": {
     "message": "Zero ang presyo ng gas sa speed up"

@@ -40,8 +40,8 @@ export default class SecurityTab extends PureComponent {
                 this.context.metricsEvent({
                   eventOpts: {
                     category: 'Settings',
-                    action: 'Reveal Seed Phrase',
-                    name: 'Reveal Seed Phrase',
+                    action: 'Reveal Secret Recovery Phrase',
+                    name: 'Reveal Secret Recovery Phrase',
                   },
                 });
                 history.push(REVEAL_SEED_ROUTE);

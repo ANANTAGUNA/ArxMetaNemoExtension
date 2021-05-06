@@ -321,7 +321,7 @@
     "message": "Redigera kontakt"
   },
   "endOfFlowMessage1": {
-    "message": "Du klarade testet. Håll din seed phrase hemlig, den är på ditt ansvar!"
+    "message": "Du klarade testet. Håll din Secret Recovery Phrase hemlig, den är på ditt ansvar!"
   },
   "endOfFlowMessage10": {
     "message": "Allt klart"
@@ -336,7 +336,7 @@
     "message": "Dela aldrig frasen med någon."
   },
   "endOfFlowMessage5": {
-    "message": "Se upp för nätfiske! MetaMask kommer aldrig att oväntat fråga om din seed phrase."
+    "message": "Se upp för nätfiske! MetaMask kommer aldrig att oväntat fråga om din Secret Recovery Phrase."
   },
   "endOfFlowMessage6": {
     "message": "Om du behöver säkerhetskopiera din nyckelfras igen, kan du hitta den i Inställningar -> Säkerhet"
@@ -641,7 +641,7 @@
     "message": "Inga adresser har angetts för detta namn."
   },
   "noAlreadyHaveSeed": {
-    "message": "Nej, jag har redan en seed phrase"
+    "message": "Nej, jag har redan en Secret Recovery Phrase"
   },
   "noConversionRateAvailable": {
     "message": "Ingen omräkningskurs tillgänglig"
@@ -769,7 +769,7 @@
     "message": "Ta bort konto"
   },
   "removeAccountDescription": {
-    "message": "Detta konto kommer att avlägsnas från din plånbok. Säkerställ att du har din ursprungliga seed phrase eller den privata nyckeln till detta importerade konto innan du fortsätter. Du kan importera eller skapa konton igen via kontots rullgardinsmeny."
+    "message": "Detta konto kommer att avlägsnas från din plånbok. Säkerställ att du har din ursprungliga Secret Recovery Phrase eller den privata nyckeln till detta importerade konto innan du fortsätter. Du kan importera eller skapa konton igen via kontots rullgardinsmeny."
   },
   "requestsAwaitingAcknowledgement": {
     "message": "anrop som väntar på godkännande"
@@ -799,7 +799,7 @@
     "message": "Om du någonsin byter webbläsare eller dator kommer du behöva denna"
   },
   "revealSeedWordsTitle": {
-    "message": "Seed phrase"
+    "message": "Secret Recovery Phrase"
   },
   "revealSeedWordsWarning": {
     "message": "De här orden kan användas för att stjäla alla dina konton."
@@ -1000,7 +1000,7 @@
     "message": "Test-faucet"
   },
   "thisWillCreate": {
-    "message": "Detta kommer att skapa en ny plånbok och seed phrase"
+    "message": "Detta kommer att skapa en ny plånbok och Secret Recovery Phrase"
   },
   "tips": {
     "message": "Donationer"

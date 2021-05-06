@@ -327,7 +327,7 @@
     "message": "Uredi stik"
   },
   "endOfFlowMessage1": {
-    "message": "Opravili ste test - vaše geslo seed phrase je vaša odgovornost - skrbno pazite nanj!"
+    "message": "Opravili ste test - vaše geslo Secret Recovery Phrase je vaša odgovornost - skrbno pazite nanj!"
   },
   "endOfFlowMessage10": {
     "message": "Končano"
@@ -339,16 +339,16 @@
     "message": "Shranite varnostno kopijo na različnih krajih."
   },
   "endOfFlowMessage4": {
-    "message": "Nikoli nikomur ne razkrijte svojega gesla seed phrase."
+    "message": "Nikoli nikomur ne razkrijte svojega gesla Secret Recovery Phrase."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na lažno predstavljanje! MetaMask nikoli ne bo spontano zaprosil za vaše geslo seed phrase."
+    "message": "Pazite na lažno predstavljanje! MetaMask nikoli ne bo spontano zaprosil za vaše geslo Secret Recovery Phrase."
   },
   "endOfFlowMessage6": {
-    "message": "Če morate ponovno varnostno kopirati vaše geslo seed phrase, ga najdete v Nastavitve -> Varnost."
+    "message": "Če morate ponovno varnostno kopirati vaše geslo Secret Recovery Phrase, ga najdete v Nastavitve -> Varnost."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ne more obnoviti vašega gesla seed phrase. Več informacij."
+    "message": "MetaMask ne more obnoviti vašega gesla Secret Recovery Phrase. Več informacij."
   },
   "endOfFlowMessage9": {
     "message": "Več o tem"
@@ -482,7 +482,7 @@
     "message": " Uvoženi računa ne bodo povezani s prvotnim seed phase. Preberite več o uvoženih računih "
   },
   "importAccountSeedPhrase": {
-    "message": "Uvoz računa z geslom seed phrase"
+    "message": "Uvoz računa z geslom Secret Recovery Phrase"
   },
   "importWallet": {
     "message": "Uvozi denarnico"
@@ -519,7 +519,7 @@
     "message": "Neveljaven RPC URL"
   },
   "invalidSeedPhrase": {
-    "message": "Neveljavna seed phrase"
+    "message": "Neveljavna Secret Recovery Phrase"
   },
   "jsonFile": {
     "message": "Datoteka JSON",
@@ -565,7 +565,7 @@
     "message": "okrožnica"
   },
   "memorizePhrase": {
-    "message": "Zapomnite si geslo seed phrase"
+    "message": "Zapomnite si geslo Secret Recovery Phrase"
   },
   "message": {
     "message": "Sporočilo"
@@ -645,7 +645,7 @@
     "message": "Za to ime ni naslovov."
   },
   "noAlreadyHaveSeed": {
-    "message": "Ne, hvala, že imam seed phrase"
+    "message": "Ne, hvala, že imam Secret Recovery Phrase"
   },
   "noConversionRateAvailable": {
     "message": "Menjalni tečaj ni na voljo"
@@ -794,7 +794,7 @@
     "message": "Obnovi"
   },
   "restoreAccountWithSeed": {
-    "message": "Obnovi račun z seed phrase"
+    "message": "Obnovi račun z Secret Recovery Phrase"
   },
   "revealSeedWords": {
     "message": "Razkrij seed words"
@@ -851,13 +851,13 @@
     "message": "Varnost in zasebnost"
   },
   "securitySettingsDescription": {
-    "message": "Nastavitve zasebnosti in geslo za denarnico seed phrase "
+    "message": "Nastavitve zasebnosti in geslo za denarnico Secret Recovery Phrase "
   },
   "seedPhrasePlaceholder": {
     "message": "Vsako besedo ločite z enim presledkom"
   },
   "seedPhraseReq": {
-    "message": "Seed phrase mora biti dolg 12 besed"
+    "message": "Secret Recovery Phrase mora biti dolg 12 besed"
   },
   "selectAHigherGasFee": {
     "message": "Izberite višji gas fee, da pospešite obdelavo vaše transakcije.*"
@@ -1004,7 +1004,7 @@
     "message": "Testni faucet"
   },
   "thisWillCreate": {
-    "message": "S tem korakom boste ustvarili novo denarnico in geslo seed phrase"
+    "message": "S tem korakom boste ustvarili novo denarnico in geslo Secret Recovery Phrase"
   },
   "tips": {
     "message": "Nasveti"
@@ -1161,7 +1161,7 @@
     "message": "Podpisali boste"
   },
   "yourPrivateSeedPhrase": {
-    "message": "Vaš zasebni seed phrase"
+    "message": "Vaš zasebni Secret Recovery Phrase"
   },
   "zeroGasPriceOnSpeedUpError": {
     "message": "Ničelni gas price na pospešitvi"

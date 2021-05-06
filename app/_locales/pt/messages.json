@@ -316,7 +316,7 @@
     "message": "Procurar"
   },
   "seedPhraseReq": {
-    "message": "seed phrases are 12 words long"
+    "message": "Secret Recovery Phrases are 12 words long"
   },
   "selectType": {
     "message": "Selecionar Tipo"

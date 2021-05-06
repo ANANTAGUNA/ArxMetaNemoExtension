@@ -169,7 +169,7 @@ describe('ConfirmSeedPhrase Component', () => {
     expect(metricsEventSpy.args[0][0]).toStrictEqual({
       eventOpts: {
         category: 'Onboarding',
-        action: 'Seed Phrase Setup',
+        action: 'Secret Recovery Phrase Setup',
         name: 'Verify Complete',
       },
     });

@@ -339,7 +339,7 @@
     "message": "Nikada ne delite frazu ni sa kim."
   },
   "endOfFlowMessage5": {
-    "message": "Čuvajte se pecanja (krađe podataka)! MetaMask nikad neće spontano tražiti vašu šifru za oporavak naloga (seed phrase)."
+    "message": "Čuvajte se pecanja (krađe podataka)! MetaMask nikad neće spontano tražiti vašu šifru za oporavak naloga (Secret Recovery Phrase)."
   },
   "endOfFlowMessage6": {
     "message": "Ako treba ponovo da izradite rezervnu kopiju svoje početne fraze, možete je pronaći u Postavke -> Bezbednost."
@@ -803,7 +803,7 @@
     "message": "Otkrivanje početnih reči"
   },
   "revealSeedWordsDescription": {
-    "message": "Ukoliko ikad promenite pregledač ili kompjuter, trebaće vam ova šifra za oporavak naloga (seed phrase) kako biste pristupili svojim nalozima. Čuvajte je na bezbednom i tajnom mestu."
+    "message": "Ukoliko ikad promenite pregledač ili kompjuter, trebaće vam ova šifra za oporavak naloga (Secret Recovery Phrase) kako biste pristupili svojim nalozima. Čuvajte je na bezbednom i tajnom mestu."
   },
   "revealSeedWordsTitle": {
     "message": "Seed fraza"
@@ -863,7 +863,7 @@
     "message": "Odvojite svaku reč jednim razmakom"
   },
   "seedPhraseReq": {
-    "message": "Šifre za oporavak naloga (seed phrases) imaju 12 reči"
+    "message": "Šifre za oporavak naloga (Secret Recovery Phrases) imaju 12 reči"
   },
   "selectAHigherGasFee": {
     "message": "Izaberite veću vrednost gas naknade da biste ubrzali procesuiranje vaše transakcije.*"
@@ -1164,7 +1164,7 @@
     "message": "Vi potpisujete"
   },
   "yourPrivateSeedPhrase": {
-    "message": "Vaša privatna šifra za oporavak naloga (seed phrase)"
+    "message": "Vaša privatna šifra za oporavak naloga (Secret Recovery Phrase)"
   },
   "zeroGasPriceOnSpeedUpError": {
     "message": "Nulta cena gasa ubrzava"

@@ -488,7 +488,7 @@
     "message": "חשבונות מיובאים לא ישויכו לצירוף הגרעין (seed) שנוצר במקור עבור חשבון ה-MetaMask שלך. למד/י עוד על חשבונות מיובאים"
   },
   "importAccountSeedPhrase": {
-    "message": "יבא חשבון באמצעות Seed Phrase"
+    "message": "יבא חשבון באמצעות Secret Recovery Phrase"
   },
   "importWallet": {
     "message": "ייבא ארנק"
@@ -525,7 +525,7 @@
     "message": "כתובת URL לא חוקית של RPC"
   },
   "invalidSeedPhrase": {
-    "message": "seed phrase לא חוקי"
+    "message": "Secret Recovery Phrase לא חוקי"
   },
   "jsonFile": {
     "message": "קובץ JSON",
@@ -782,7 +782,7 @@
     "message": "הסר חשבון"
   },
   "removeAccountDescription": {
-    "message": "חשבון זה יוסר מארנקך. יש לוודא שיש לך את ה-seed phrase המקורי או המפתח האישי לחשבון מיובא זה לפני שתמשיך/י. באפשרותך ליבוא או לפתוח חשבונות שוב מהתפריט הנפתח של החשבון."
+    "message": "חשבון זה יוסר מארנקך. יש לוודא שיש לך את ה-Secret Recovery Phrase המקורי או המפתח האישי לחשבון מיובא זה לפני שתמשיך/י. באפשרותך ליבוא או לפתוח חשבונות שוב מהתפריט הנפתח של החשבון."
   },
   "requestsAwaitingAcknowledgement": {
     "message": "בקשות הממתינות לאישור"
@@ -809,10 +809,10 @@
     "message": "גלה מילות Seed"
   },
   "revealSeedWordsDescription": {
-    "message": "אם בעתיד תחליף/י דפדפנים או תעביר/י מחשבים, תצטרך/י seed phrase זה כדי לקבל גישה לחשבונות שלך. יש לשמור אותם במקום בטוח וסודי."
+    "message": "אם בעתיד תחליף/י דפדפנים או תעביר/י מחשבים, תצטרך/י Secret Recovery Phrase זה כדי לקבל גישה לחשבונות שלך. יש לשמור אותם במקום בטוח וסודי."
   },
   "revealSeedWordsTitle": {
-    "message": "צירוף גרעין (Seed Phrase)"
+    "message": "צירוף גרעין (Secret Recovery Phrase)"
   },
   "revealSeedWordsWarning": {
     "message": "במילים אלה עלול להיעשות שימוש כדי לגנוב את כל חשבונותיך."
@@ -1013,7 +1013,7 @@
     "message": "בדיקת ברז (Faucet)"
   },
   "thisWillCreate": {
-    "message": "זה ייצור ארנק חדש וצירוף גרעין (seed phrase)"
+    "message": "זה ייצור ארנק חדש וצירוף גרעין (Secret Recovery Phrase)"
   },
   "tips": {
     "message": "טיפים"
@@ -1173,7 +1173,7 @@
     "message": "הנך חותמ/ת"
   },
   "yourPrivateSeedPhrase": {
-    "message": "ה-seed phrase הפרטי שלך"
+    "message": "ה-Secret Recovery Phrase הפרטי שלך"
   },
   "zeroGasPriceOnSpeedUpError": {
     "message": "מחיר גז אפס על האצה"

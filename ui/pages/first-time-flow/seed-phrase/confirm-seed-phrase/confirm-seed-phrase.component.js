@@ -80,7 +80,7 @@ export default class ConfirmSeedPhrase extends PureComponent {
       this.context.metricsEvent({
         eventOpts: {
           category: 'Onboarding',
-          action: 'Seed Phrase Setup',
+          action: 'Secret Recovery Phrase Setup',
           name: 'Verify Complete',
         },
       });
